@@ -3,6 +3,12 @@
 ##	project related
 ##
 
+pkg/
+src/
+*.pkg.tar.xz
+*.tar.gz
+!_files/
+
 ###### ################
 ###
 ##	system (linux)
